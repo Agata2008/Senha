@@ -15,12 +15,12 @@
 }
 
 h1 {
-     text-align: justify;
     text-align: center;
     color: #caaae4;
 }
 
 p {
+    text-align: justify;
     text-align: center;
 }
 
