@@ -15,6 +15,7 @@
 }
 
 h1 {
+     text-align: justify;
     text-align: center;
     color: #caaae4;
 }
@@ -28,6 +29,15 @@ body {
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
+
+footer {
+      background-color: var(--fundo-senha); 
+      text-align: center;   
+      padding: 20px;    
+      position: fixed;   
+      bottom: 0;
+      width: 100%;
+    }
 
 .titulo-principal {
     font-family: var(--roboto-mono);
