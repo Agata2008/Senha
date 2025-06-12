@@ -2,9 +2,9 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #2e1500;
-    --fundo-senha: #692a00;
-    --fundo-texto: #401f00;
+    --cor-de-fundo: #14002e;
+    --fundo-senha: #430069;
+    --fundo-texto: #260040;
     --borda: #0037ff;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
@@ -12,6 +12,14 @@
 
 * {
     font-weight: 400;
+}
+
+h1 {
+     width: 100%;
+    max-width: 800px;
+    padding: 0 10px;
+    text-align: justify;
+    color: #252029;
 }
 
 body {
